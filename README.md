@@ -1,4 +1,4 @@
-# Data_engineering_Project
+# Data_pipeline_Project
 #### Author: Vincent Wai Seng Lee
 
 __Life Expectancy and Socioeconomic status in American states__
@@ -14,7 +14,6 @@ __Problem statement:__
 3. Do demographics (e.g. gender, race, and age) at the state level contribute largely to the life expectancy disparities?
 
 __Datasets and source__
-You can find the cleaned datasets under the Final Datasets folder: 
 1. Life expectancy and mortality risk by gender and state (Institute for Health Metric and Evaluation)
 2. Life expectancy by race and state (Center for Disease Control and Prevention)
 3. Income data by quartile (Internal Revenue Service)
