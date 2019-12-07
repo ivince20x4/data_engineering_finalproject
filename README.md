@@ -27,18 +27,18 @@ You can find the cleaned datasets under the Final Datasets folder:
 __Data pipeline__
 1. Data extraction and preparation
     a. Datasets extract using csv download, 
-    b. Data cleaning and transforming using Python and Excel Pivot (the cleaning script is under Script folder- file: Data_cleaning_lifeexpectancy.ipynb)
+    b. Data cleaning and transforming using Python and Excel Pivot (file: Data_cleaning_lifeexpectancy.ipynb)
 2. Data warehouse (SQL OLAP) and data lake (Cloud SQL) 
-    a. Star schema and store data at Cloud SQL (the DDL and DML are in the Script folder - subfolder: SQL Workbench Scripts)
+    a. Star schema and store data at Cloud SQL (file: SQL Workbench Scripts)
 3. Insights (Python and Tableau)
-    a. Modeling (Linear regression model) (model script is under Script folder- file: Model_to_estimate_person_lifeexpectancy_US.ipynb)
-    b. Visualization (Tableau) - workings are in the Tableau Workbook folder - DEP Tableau Workbook.twb file)
+    a. Modeling (Linear regression model) (file: Model_to_estimate_person_lifeexpectancy_US.ipynb)
+    b. Visualization (Tableau)
     
 __Exploration of NoSQL__
 1. Use case for MongoDB (document database) -connecting life expectancy data with health or tax record documents 
-    a. For details, kindly refer to MongoDB folder - file: Readme_Notebook_lifeexptoMongoDB.pdf
+    a. For details, kindly refer to MongoDB folder - file: Exporting_lifeexp_factable_to_MongoDB.pdf
 2. Use case for Neo4J (graph database) - identifying relationships of persons with outlier life expectancy 
-    a. For details, kindly refer to Neo4J folder - file: Readme_lifeexpinNeo4J.txt
+    a. For details, kindly refer to Neo4J folder - file: Scripts_lifeexpinNeo4J.txt
 
 __Insights__
 1. Results of linear regression model show that gender, income and mortality risk  are the most sensitive features for life expectancy
