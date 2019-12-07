@@ -1,5 +1,4 @@
-# Data_engineering_FinalProject
-## Friday evening-Team 3
+# Data_engineering_Project
 
 __Life Expectancy and Socioeconomic status in American states__
 
