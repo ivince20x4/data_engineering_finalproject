@@ -65,19 +65,31 @@ c. Target healthy-lifestyle campaigns towards higher risk populations.
 
 __References__
 References for entire data pipeline
-1.Life expectancy and mortality risk by gender and state http://ghdx.healthdata.org/record/ihme-data/united-states-life-expectancy-and-age-specific-mortality-risk-county-1980-2014
-2. Life expectancy by race and state https://www.cdc.gov/nchs/data/hus/2018/004.pdf
+1.Life expectancy and mortality risk by gender and state 
+http://ghdx.healthdata.org/record/ihme-data/united-states-life-expectancy-and-age-specific-mortality-risk-county-1980-2014
+2. Life expectancy by race and state 
+https://www.cdc.gov/nchs/data/hus/2018/004.pdf
 3. Income data by income quartile https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-tables-by-tax-rate-and-income-percentile
-4. Life expectancy by income by state https://healthinequality.org/
-5. Resident population by state https://www.census.gov/newsroom/press-kits/2018/pop-estimates-national-state.html
-6. Health care expenditure per capita by state https://www.kff.org/other/state-indicator/health-spending-per-capita
-7. Health insurance coverage by state https://www.census.gov/data/tables/time-series/demo/health-insurance/historical-series/hic.html
-8. Number of hospitals by state https://www.aha.org/statistics/fast-facts-us-hospitals
-9. Feature selection https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
-10. Multilinear regression model for life expectancy https://www.seas.upenn.edu/~ese302/Projects/Project_2.pdf
-11. Government use-cases for MongoDB https://www.mongodb.com/industries/government
-12. Population Reference Bureau: “Exploring the Paradox of U.S. Hispanics’ Longer Life Expectancy” https://www.prb.org/us-hispanics-life-expectancy/
-13. Median US household income https://www.census.gov/content/dam/Census/library/publications/2015/demo/p60-252.pdf
+4. Life expectancy by income by state 
+https://healthinequality.org/
+5. Resident population by state 
+https://www.census.gov/newsroom/press-kits/2018/pop-estimates-national-state.html
+6. Health care expenditure per capita by state 
+https://www.kff.org/other/state-indicator/health-spending-per-capita
+7. Health insurance coverage by state 
+https://www.census.gov/data/tables/time-series/demo/health-insurance/historical-series/hic.html
+8. Number of hospitals by state 
+https://www.aha.org/statistics/fast-facts-us-hospitals
+9. Feature selection 
+https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
+10. Multilinear regression model for life expectancy 
+https://www.seas.upenn.edu/~ese302/Projects/Project_2.pdf
+11. Government use-cases for MongoDB 
+https://www.mongodb.com/industries/government
+12. Population Reference Bureau: “Exploring the Paradox of U.S. Hispanics’ Longer Life Expectancy” 
+https://www.prb.org/us-hispanics-life-expectancy/
+13. Median US household income 
+https://www.census.gov/content/dam/Census/library/publications/2015/demo/p60-252.pdf
 
 
 
