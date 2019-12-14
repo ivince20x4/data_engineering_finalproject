@@ -1,5 +1,5 @@
 # Data_pipeline_Project
-#### Author: Vincent Wai Seng Lee
+#### Author: Vincent Wai Seng Lee, Rameez, Satya, Divya
 
 __Life Expectancy and Socioeconomic status in American states__
 
